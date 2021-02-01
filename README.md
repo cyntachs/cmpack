@@ -1,2 +1,3 @@
 # cmpack
- Lua compression libraries
+
+Lua compression libraries. LZ1 and LZW implementations.
